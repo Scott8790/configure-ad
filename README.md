@@ -70,18 +70,29 @@ Create two Organizational Units (OUs): One called employees and the other admins
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="626" alt="ADlab5" src="https://github.com/Scott8790/configure-ad/assets/172638339/10d9f089-7b5c-4d39-825c-0e5fbdbf54ff">
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+From Azure portal, go into client 1 DNS settings and change the DNS to the private IP of the DC. This way client 1 will not confuse the domain with some other random one.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="876" alt="ADlab6" src="https://github.com/Scott8790/configure-ad/assets/172638339/02dee5ee-af97-454f-b227-faecdd9ee6aa">
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+From client-1, join the DC by renaming the PC to the domain created with the DC-1 VM. Then sign in using an admin account created previously
+</p>
+<br />
+
+<p>
+<img width="880" alt="ADlab7" src="https://github.com/Scott8790/configure-ad/assets/172638339/e5c60e14-a9d5-4adf-95ef-ca10ef685e14">
+
+</p>
+<p>
+Setup remote desktop access for any user on the DC to connect to client-1
 </p>
 <br />
 
