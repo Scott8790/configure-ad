@@ -59,10 +59,11 @@ On DC-1 open server manager and click add roles and features. Make sure to have 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="651" alt="ADlab4" src="https://github.com/Scott8790/configure-ad/assets/172638339/2567480b-f46d-4a1a-a17b-5a969a5f4ece">
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Create two Organizational Units (OUs): One called employees and the other admins. Then create a new admin user. Log out and log back in as the new admin user.
 </p>
 <br />
 
