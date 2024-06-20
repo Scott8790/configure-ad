@@ -41,7 +41,8 @@ Create two VMs within the same resource group. One VM is the domain controller a
 <br />
 
 <p>
-<img width="1567" alt="ADlab2" src="https://github.com/Scott8790/configure-ad/assets/172638339/24bf438f-e646-47c8-ab94-131b77a4c140">
+<img width="1186" alt="ADlab2" src="https://github.com/Scott8790/configure-ad/assets/172638339/d607e0d4-a9d8-4532-b593-e04baf8e9751">
+
 
 </p>
 <p>
@@ -50,7 +51,8 @@ On DC-1 firewall setting, allow ICMPv4 traffic to come in. This allows you to pi
 <br />
 
 <p>
-<img width="1567" alt="ADlab3" src="https://github.com/Scott8790/configure-ad/assets/172638339/797d1ee0-26cd-46d8-960c-8054c7fcb3aa">
+<img width="745" alt="ADlab3" src="https://github.com/Scott8790/configure-ad/assets/172638339/5a5d2cfb-bc45-476f-803d-01db3e85ada4">
+
 
 </p>
 <p>
