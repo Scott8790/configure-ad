@@ -41,10 +41,11 @@ Create two VMs within the same resource group. One VM is the domain controller a
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1567" alt="ADlab2" src="https://github.com/Scott8790/configure-ad/assets/172638339/24bf438f-e646-47c8-ab94-131b77a4c140">
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+On DC-1 firewall setting, allow ICMPv4 traffic to come in. This allows you to ping the DC private IP from the client VM to ensure connectivity. Ping will not work unless you enable these two rules in the DC firewall settings
 </p>
 <br />
 
