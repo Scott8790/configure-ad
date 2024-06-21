@@ -108,6 +108,6 @@ Setup remote desktop access for any user on the DC to connect to client-1
 
 </p>
 <p>
-Login to DC-1 as jane_admin, open PowerShell as admin, create a new file, paste the user-creating script, click run, and watch the accounts created. Then attempt to log in as one of the newly created users.
+Login to DC-1 as jane_admin, open PowerShell as admin, create a new file, paste the user-creating script, click run, and watch the accounts created. Then attempt to log in as a newly created user on client-1.
 </p>
 <br />
