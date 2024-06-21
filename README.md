@@ -99,6 +99,12 @@ Setup remote desktop access for any user on the DC to connect to client-1
 <p>
 <img width="591" alt="ADlab8" src="https://github.com/Scott8790/configure-ad/assets/172638339/d342084b-f1d0-475c-8abe-b16d2e170c2b">
 
+<img width="597" alt="ADlab9" src="https://github.com/Scott8790/configure-ad/assets/172638339/95cb5912-5bac-426f-bd8d-521e7b4bb6ec">
+
+<img width="432" alt="ADlab10" src="https://github.com/Scott8790/configure-ad/assets/172638339/070b65d1-bca4-4a85-9d89-18e65689d0cf">
+
+
+
 
 </p>
 <p>
